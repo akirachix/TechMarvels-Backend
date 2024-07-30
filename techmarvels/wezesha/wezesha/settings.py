@@ -81,7 +81,7 @@ WSGI_APPLICATION = "wezesha.wsgi.application"
 DATABASES = {
     'default': {
         "ENGINE": "django.db.backends.postgresql",
-        "NAME": "Wezesha_Database",
+        "NAME": "wezesha_database",
         "USER": "marvels",
         "PASSWORD": "wezeshaMarvels",
         "HOST": "127.0.0.1",
